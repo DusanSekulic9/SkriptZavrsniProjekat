@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5426422c-1549-4b6e-805a-e9c856ae5353" name="Default Changelist" comment="prvi" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aplikacija" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1kOBNlWX8VJPgQawmiLTbzHg0Of" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\aplikacija" />
+      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="node/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5426422c-1549-4b6e-805a-e9c856ae5353" name="Default Changelist" comment="" />
+      <created>1605561720056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605561720056</updated>
+      <workItem from="1605561721102" duration="4300000" />
+      <workItem from="1605571148149" duration="68000" />
+      <workItem from="1605571576828" duration="10709000" />
+      <workItem from="1605583530787" duration="583000" />
+      <workItem from="1605584150814" duration="9000" />
+      <workItem from="1605616023108" duration="17273000" />
+      <workItem from="1605696714280" duration="101000" />
+      <workItem from="1605696828151" duration="16177000" />
+      <workItem from="1605719690883" duration="7356000" />
+      <workItem from="1606566804980" duration="1053000" />
+      <workItem from="1606568648433" duration="4000" />
+      <workItem from="1606572554614" duration="2500000" />
+      <workItem from="1606576444222" duration="200000" />
+      <workItem from="1606579902786" duration="1805000" />
+      <workItem from="1606589202813" duration="631000" />
+      <workItem from="1606605921708" duration="1265000" />
+      <workItem from="1606656822827" duration="3417000" />
+      <workItem from="1613088203590" duration="42000" />
+      <workItem from="1613302392103" duration="333000" />
+    </task>
+    <task id="LOCAL-00001" summary="prvi">
+      <created>1606575671415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606575671415</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Dusan/WebstormProjects/skript_jezici/aplikacija/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prvi" />
+    <option name="LAST_COMMIT_MESSAGE" value="prvi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="236" key="#Notifications" timestamp="1605716633147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605716633147" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606575236571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606575236571" />
+    <state x="619" y="290" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1605571830880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="290" key="DBNavigator.ConnectionAuthenticationDialog/0.0.1536.824@0.0.1536.824" timestamp="1605571830880" />
+    <state x="425" y="112" key="DBNavigator.ConnectionInfoDialog" timestamp="1605582733750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="112" key="DBNavigator.ConnectionInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1605582733750" />
+    <state x="349" y="127" key="DBNavigator.DatasetFilterDialog" timestamp="1605577795219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="127" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1605577795219" />
+    <state x="299" y="67" key="DBNavigator.ProjectSettingsDialog" timestamp="1605582776484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605582776484" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1605709356878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605709356878" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605721301041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605721301041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605721301041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605721301041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605635418287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635418287" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606575684229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606575684229" />
+    <state x="541" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1606575225075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1606575225075" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606575067158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606575067158" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1605570707153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605570707153" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605718018875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605718018875" />
+  </component>
+</project>
