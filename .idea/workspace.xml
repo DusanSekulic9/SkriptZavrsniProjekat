@@ -8,7 +8,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5426422c-1549-4b6e-805a-e9c856ae5353" name="Default Changelist" comment="prvi" />
+    <list default="true" id="5426422c-1549-4b6e-805a-e9c856ae5353" name="Default Changelist" comment="prvi">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/routes/TelefoniCrud.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/routes/Baza.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aplikacija" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="LogFilters">
@@ -92,7 +98,8 @@
       <workItem from="1606605921708" duration="1265000" />
       <workItem from="1606656822827" duration="3417000" />
       <workItem from="1613088203590" duration="42000" />
-      <workItem from="1613302392103" duration="333000" />
+      <workItem from="1613302392103" duration="2470000" />
+      <workItem from="1613393602043" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="prvi">
       <created>1606575671415</created>

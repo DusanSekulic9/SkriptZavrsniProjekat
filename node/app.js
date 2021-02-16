@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const telefoni = require('./routes/TelefoniCrud');
+const telefoni = require('./routes/Baza');
 //const mysql = require('mysql');
 let port = process.env.PORT | 80;
 const history = require('connect-history-api-fallback');
