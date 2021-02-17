@@ -17,6 +17,20 @@
       <change afterPath="$PROJECT_DIR$/aplikacija/src/views/NoviTablet.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aplikacija/src/views/Register.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aplikacija/src/views/Welcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/templates/tableti/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/templates/telefoni/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chartsProject/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/044b72848233d413fd13838d2288920a.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/044b72848233d413fd13838d2288920a.json" afterDir="false" />
@@ -77,12 +91,17 @@
       <list>
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
+        <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/project/chartsProject/app/templates/tableti/chart.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -99,12 +118,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -112,12 +133,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dusan\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\Dusan\PycharmProjects\pythonProject\project" />
       <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
       <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\aplikacija" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dusan\PycharmProjects\pythonProject\project\chartsProject" />
+      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
     </key>
   </component>
   <component name="RunManager">
@@ -153,6 +177,7 @@
       <workItem from="1613088203590" duration="42000" />
       <workItem from="1613302392103" duration="2470000" />
       <workItem from="1613393602043" duration="36361000" />
+      <workItem from="1613549689681" duration="4738000" />
     </task>
     <task id="LOCAL-00001" summary="prvi">
       <created>1606575671415</created>
@@ -224,79 +249,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prvi" />
     <option name="LAST_COMMIT_MESSAGE" value="prvi" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="512" y="236" key="#Notifications" timestamp="1605716633147">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="512" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605716633147" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606575236571">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606575236571" />
-    <state x="619" y="290" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1605571830880">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="619" y="290" key="DBNavigator.ConnectionAuthenticationDialog/0.0.1536.824@0.0.1536.824" timestamp="1605571830880" />
-    <state x="425" y="112" key="DBNavigator.ConnectionInfoDialog" timestamp="1605582733750">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="112" key="DBNavigator.ConnectionInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1605582733750" />
-    <state x="349" y="127" key="DBNavigator.DatasetFilterDialog" timestamp="1605577795219">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="349" y="127" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1605577795219" />
-    <state x="299" y="67" key="DBNavigator.ProjectSettingsDialog" timestamp="1605582776484">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="299" y="67" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605582776484" />
-    <state x="554" y="286" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1613507071345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="554" y="286" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1613507071345" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1605709356878">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605709356878" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605721301041">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605721301041">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605721301041">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605721301041">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605721301041" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1605635418287">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605635418287" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606575684229">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606575684229" />
-    <state x="541" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1606575225075">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="541" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1606575225075" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613511484213">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1613511484213" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1613520667816">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613520667816" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613514307740">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613514307740" />
   </component>
 </project>

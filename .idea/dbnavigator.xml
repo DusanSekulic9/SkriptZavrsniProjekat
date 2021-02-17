@@ -27,7 +27,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="6254ebc3-a5ca-41d8-9fb1-e216e029657b">
-      <console name="MobilniTelefoniDB" type="STANDARD" schema="test" session="Main">select * from tableti</console>
+      <console name="MobilniTelefoniDB" type="STANDARD" schema="test" session="Main"><![CDATA[select * from tableti]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
