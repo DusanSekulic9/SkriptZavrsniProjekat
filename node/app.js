@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const telefoni = require('./routes/Baza');
 //const mysql = require('mysql');
-let port = process.env.PORT | 80;
+let port = 81;
 const history = require('connect-history-api-fallback');
 const path = require('path');
 

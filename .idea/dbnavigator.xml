@@ -25,19 +25,13 @@
     <show-object-properties value="true" />
     <loaded-nodes>
       <connection connection-id="6254ebc3-a5ca-41d8-9fb1-e216e029657b">
-        <schema name="test" object-types="function, view, table, procedure" />
+        <schema name="test" object-types="constraint, dataset trigger, column, function, view, index, table, procedure" />
       </connection>
     </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="6254ebc3-a5ca-41d8-9fb1-e216e029657b">
-      <console name="MobilniTelefoniDB" type="STANDARD" schema="test" session="Main"><![CDATA[CREATE TABLE Telefoni (
-    id int,
-    Marka varchar(255),
-    Model varchar(255),
-    Procesor varchar(255),
-    Verzija varchar(255)
-);]]></console>
+      <console name="MobilniTelefoniDB" type="STANDARD" schema="test" session="Main"><![CDATA[select * from tableti]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
