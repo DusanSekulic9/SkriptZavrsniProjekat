@@ -17,33 +17,48 @@
       <change afterPath="$PROJECT_DIR$/aplikacija/src/views/NoviTablet.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aplikacija/src/views/Register.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aplikacija/src/views/Welcome.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/044b72848233d413fd13838d2288920a.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/044b72848233d413fd13838d2288920a.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/24e84a89944b5a2deae73b7ea8cb89c2.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/24e84a89944b5a2deae73b7ea8cb89c2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/2a8e9eaa1dd41fe39a95c32562855776.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/2a8e9eaa1dd41fe39a95c32562855776.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/3bac49f1112b360e327ed178c3962b50.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/3bac49f1112b360e327ed178c3962b50.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/444c9317d7547584e1ae7d1fd0b1986d.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/444c9317d7547584e1ae7d1fd0b1986d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/49d5f8af3ee653415b9ea5285458ee84.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/49d5f8af3ee653415b9ea5285458ee84.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/60cc11a89b1340da365b9762dd68ccbd.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/60cc11a89b1340da365b9762dd68ccbd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/7073f7cd22c1ee780429a983f17b1a05.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/7073f7cd22c1ee780429a983f17b1a05.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/80d3725444e689bd6e4a8b1e4cfa3852.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/80d3725444e689bd6e4a8b1e4cfa3852.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/a55cf2562a599771c0e68dba614eb0ba.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/a55cf2562a599771c0e68dba614eb0ba.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/a594d9dbcf964e9b8a6af5b2acfd1c63.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/a594d9dbcf964e9b8a6af5b2acfd1c63.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/b0a03e38141a49c9c76834399dd3e14d.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/b0a03e38141a49c9c76834399dd3e14d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/e8ebf112bf61559073f6587bcfcc2d3b.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/babel-loader/e8ebf112bf61559073f6587bcfcc2d3b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/0749ed05437f291ada922e13b6f47b75.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/0749ed05437f291ada922e13b6f47b75.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/0bc41353693c47985a410301c70b5625.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/0bc41353693c47985a410301c70b5625.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/1393ad2d9a84433c1186874dd29be804.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/1393ad2d9a84433c1186874dd29be804.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/140543c0dc7b23c86f85df1dc2b27482.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/140543c0dc7b23c86f85df1dc2b27482.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/181a97fe9b4b6de0de9588019beb3373.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/181a97fe9b4b6de0de9588019beb3373.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/350e566338e22d6c00c3adbb4caad496.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/350e566338e22d6c00c3adbb4caad496.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/39119a8b8413e9b04fbf27b8809e3c07.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/39119a8b8413e9b04fbf27b8809e3c07.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/3f269854ecc1e72e1bf3ed2981f116e9.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/3f269854ecc1e72e1bf3ed2981f116e9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/4ba28a7efbd633c3001649a05103c502.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/4ba28a7efbd633c3001649a05103c502.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/59e31dfdfe87337d8b187af60ab4ded7.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/59e31dfdfe87337d8b187af60ab4ded7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/6e688eb831ec71d718420fbb4110bb0c.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/6e688eb831ec71d718420fbb4110bb0c.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/77de65cbf76a42e67c9240cbc52aa6b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/77de65cbf76a42e67c9240cbc52aa6b4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7bc345474d7af106c73397bea6f7d113.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7bc345474d7af106c73397bea6f7d113.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7d99e24a25805d8f2c17ccdfb2fa5305.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7d99e24a25805d8f2c17ccdfb2fa5305.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7eac765b62b5700a70e0be7d6a96cb8c.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7eac765b62b5700a70e0be7d6a96cb8c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7ec04d467428e1e96603c4d1ad88a54a.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/7ec04d467428e1e96603c4d1ad88a54a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/8eabe59c49c3bf1e2b48dbea3055e986.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/8eabe59c49c3bf1e2b48dbea3055e986.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/a0d83322dd338bcab51a7299ee86456f.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/a0d83322dd338bcab51a7299ee86456f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/a7a7dfcfd69b500d9a3c62a7a8d7f60f.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/a7a7dfcfd69b500d9a3c62a7a8d7f60f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/ad113dca01aa8a91f683c486fd4dfb7c.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/ad113dca01aa8a91f683c486fd4dfb7c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/ba5b91561d85f3e2c7fd6505be97fafb.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/ba5b91561d85f3e2c7fd6505be97fafb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/da1899e0c5de337cadf04f9d5dde5b7a.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/da1899e0c5de337cadf04f9d5dde5b7a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/db10a40002e58f7dd203be2854d38345.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/db10a40002e58f7dd203be2854d38345.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/e4104e8d8dfe1c1b9acdd7fd70a8f31b.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/e4104e8d8dfe1c1b9acdd7fd70a8f31b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/e4fdf8bd90e29b3896fcfa14c9ec9b07.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/e4fdf8bd90e29b3896fcfa14c9ec9b07.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/f0b00f92261f53bb36e45fd6569ea55c.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/f0b00f92261f53bb36e45fd6569ea55c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/f346f22ef82c3c5d2166db3700957bee.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/f346f22ef82c3c5d2166db3700957bee.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/fe04b45cc21bb1ea3355c64870d5ee5c.json" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/node_modules/.cache/vue-loader/fe04b45cc21bb1ea3355c64870d5ee5c.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/src/components/Header.vue" afterDir="false" />
@@ -51,16 +66,6 @@
       <change beforePath="$PROJECT_DIR$/aplikacija/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/src/store/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacija/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacija/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/node_modules/body-parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/node_modules/body-parser/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/raw.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/raw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/node_modules/body-parser/lib/types/urlencoded.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node/node_modules/body-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/routes/Baza.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/routes/Baza.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +81,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aplikacija" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="LogFilters">
@@ -99,7 +104,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -111,8 +116,8 @@
       <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\aplikacija" />
       <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\node" />
+      <recent name="C:\Users\Dusan\WebstormProjects\skript_jezici\aplikacija" />
     </key>
   </component>
   <component name="RunManager">
@@ -147,7 +152,7 @@
       <workItem from="1606656822827" duration="3417000" />
       <workItem from="1613088203590" duration="42000" />
       <workItem from="1613302392103" duration="2470000" />
-      <workItem from="1613393602043" duration="35776000" />
+      <workItem from="1613393602043" duration="36361000" />
     </task>
     <task id="LOCAL-00001" summary="prvi">
       <created>1606575671415</created>
